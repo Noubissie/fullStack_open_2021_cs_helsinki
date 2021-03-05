@@ -1,0 +1,1 @@
+export const countryDataUrl = "https://restcountries.eu/rest/v2/all"

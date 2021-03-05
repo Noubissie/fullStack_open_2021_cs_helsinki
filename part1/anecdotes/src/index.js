@@ -23,7 +23,7 @@ const App = (props) => {
   let handleState = (e)=>{
     setSelected(Math.floor(Math.random()*sizeAnecdotes))
   }
-
+   
   return (
     <>
       <div>
